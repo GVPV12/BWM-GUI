@@ -4,7 +4,7 @@ Una herramienta de escritorio intuitiva y eficiente, diseñada para aplicar marc
 
 Descarga: https://github.com/GVPV12/BWM-GUI/releases/download/v1.0/BulkWatermarkMaker.exe
 
-Versión con consola: [https://github.com/GVPV12/BWM-GUI/releases/download/v1.0/BulkWatermarkMaker.exe](https://github.com/GVPV12/BWM)
+Versión con consola: [[Aqui](https://github.com/GVPV12/BWM)](https://github.com/GVPV12/BWM)
 
 Este es mi primer programa en Python. La versión original es la versión que tiene consola, esta versión esta basada en ella.
 
@@ -76,7 +76,7 @@ An intuitive and efficient desktop tool designed to apply text watermarks to mul
 
 Download: https://github.com/gvpv12/bwm-gui/releases/download/v1.0/bulkwaterkmaker.exe
 
-Console version: [https://github.com/gvpv12/bwm-gui/releases/download/v1.0/bulkwaterkmaker.exe](https://github.com/GVPV12/BWM)
+Console version: [https://github.com/GVPV12/BWM](https://github.com/GVPV12/BWM)
 
 This is my first Python program. The original version has a console; this version is based on it.
 
