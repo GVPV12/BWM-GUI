@@ -2,6 +2,13 @@
 
 Una herramienta de escritorio intuitiva y eficiente, diseñada para aplicar marcas de agua de texto a múltiples imágenes simultáneamente. Ideal para fotógrafos, artistas digitales y cualquier persona que necesite proteger o identificar lotes de imágenes de forma rápida y sencilla.
 
+## GUI
+![Captura5435345](https://github.com/user-attachments/assets/02a81534-dd5c-4769-af62-066da4f411d1)
+## Ejemplo proceso completado
+![Capturarewrwrwe](https://github.com/user-attachments/assets/e1e447c4-33ed-4886-a310-b1983ad0b295)
+## Output
+![20220615_142349-01 (1)](https://github.com/user-attachments/assets/08d2e751-378d-4bdc-87f0-8916bebbcfd3)
+
 ## 🚀 Funcionalidades Principales
 
 * **Procesamiento por Lotes:** Aplica marcas de agua a todas las imágenes de una carpeta de entrada y guarda los resultados en una carpeta de salida designada.
@@ -60,6 +67,13 @@ Todas las imágenes procesadas se guardarán en formato `.jpg` en la carpeta de 
 # Bulk Watermark Maker
 
 An intuitive and efficient desktop tool designed to apply text watermarks to multiple images simultaneously. Ideal for photographers, digital artists, and anyone needing to quickly and easily protect or identify batches of images.
+
+## GUI
+![Captura5435345](https://github.com/user-attachments/assets/02a81534-dd5c-4769-af62-066da4f411d1)
+## Example of a successful process
+![Capturarewrwrwe](https://github.com/user-attachments/assets/e1e447c4-33ed-4886-a310-b1983ad0b295)
+## Output
+![20220615_142349-01 (1)](https://github.com/user-attachments/assets/08d2e751-378d-4bdc-87f0-8916bebbcfd3)
 
 ## 🚀 Key Features
 
