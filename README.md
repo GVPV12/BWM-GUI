@@ -2,6 +2,12 @@
 
 Una herramienta de escritorio intuitiva y eficiente, diseñada para aplicar marcas de agua de texto a múltiples imágenes simultáneamente. Ideal para fotógrafos, artistas digitales y cualquier persona que necesite proteger o identificar lotes de imágenes de forma rápida y sencilla.
 
+Descarga: https://github.com/GVPV12/BWM-GUI/releases/download/v1.0/BulkWatermarkMaker.exe
+
+Versión con consola: https://github.com/GVPV12/BWM-GUI/releases/download/v1.0/BulkWatermarkMaker.exe
+
+Este es mi primer programa en Python. La versión original es la versión que tiene consola, esta versión esta basada en ella.
+
 ## GUI
 ![Captura5435345](https://github.com/user-attachments/assets/02a81534-dd5c-4769-af62-066da4f411d1)
 ## Ejemplo proceso completado
@@ -67,6 +73,12 @@ Todas las imágenes procesadas se guardarán en formato `.jpg` en la carpeta de 
 # Bulk Watermark Maker
 
 An intuitive and efficient desktop tool designed to apply text watermarks to multiple images simultaneously. Ideal for photographers, digital artists, and anyone needing to quickly and easily protect or identify batches of images.
+
+Download: https://github.com/gvpv12/bwm-gui/releases/download/v1.0/bulkwaterkmaker.exe
+
+Console version: https://github.com/gvpv12/bwm-gui/releases/download/v1.0/bulkwaterkmaker.exe
+
+This is my first Python program. The original version has a console; this version is based on it.
 
 ## GUI
 ![Captura5435345](https://github.com/user-attachments/assets/02a81534-dd5c-4769-af62-066da4f411d1)
