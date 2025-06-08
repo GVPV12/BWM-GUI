@@ -4,7 +4,7 @@ Una herramienta de escritorio intuitiva y eficiente, diseñada para aplicar marc
 
 Descarga: https://github.com/GVPV12/BWM-GUI/releases/download/v1.0/BulkWatermarkMaker.exe
 
-Versión con consola: [[Aqui](https://github.com/GVPV12/BWM)](https://github.com/GVPV12/BWM)
+Versión con consola: [https://github.com/GVPV12/BWM](https://github.com/GVPV12/BWM)
 
 Este es mi primer programa en Python. La versión original es la versión que tiene consola, esta versión esta basada en ella.
 
